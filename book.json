@@ -1,0 +1,15 @@
+{
+    "title" : "GBVIMS User Guide",
+    "github" : false,
+    "plugins" : [ "-mathjax", "-mixpanel", "fancybox"],
+    "links" : {
+      "sidebar": {
+            "Documentation Home Page": "https://ianlawrence.github.io/PrimeroGuides/"
+        },
+      "sharing" : {
+        "google" : null,
+        "twitter" : null,
+        "facebook" : null
+      }
+    }
+}
